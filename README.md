@@ -20,13 +20,13 @@ class Program
 
     static void Main(string[] args)
 
-    {
+        {
 
-    var pass = PasswordGenerate.CrearPassByDigitsLetterSymbol(5);  // it will be a 5-digit code with the letters numbers and symbols
+        var pass = PasswordGenerate.CrearPassByDigitsLetterSymbol(5);  // it will be a 5-digit code with the letters numbers and symbols
+
+        }
 
     }
-
-}
 
 }
 
