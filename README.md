@@ -1,7 +1,7 @@
 CreatPasswords
 
 This code generates several types of passwords, there is a possibility to specify how many characters should be, so you can choose from several methods you more convenient it is: CrearPassByDigitsLetterSymbol, CreatePassByLetter, CreatePassByDigits, CreatePassByDigitsAndLetter - the names speak for themselves. Everything is very simple.
-
+"""C#
 Example:
 
 using System;
@@ -29,3 +29,4 @@ class Program
 }
 
 }
+"""
